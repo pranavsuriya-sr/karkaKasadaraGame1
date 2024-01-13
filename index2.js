@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded', function () {
     const optionsList = [
-        { animal: 'Dog', image: 'https://img.freepik.com/free-photo/isolated-happy-smiling-dog-white-background-portrait-4_1562-693.jpg' },
-        { animal: 'Cat', image: 'https://images.pexels.com/photos/2071882/pexels-photo-2071882.jpeg?cs=srgb&dl=pexels-wojciech-kumpicki-2071882.jpg&fm=jpg' },
-        { animal: 'Mouse', image: 'https://img.freepik.com/free-vector/cute-little-mouse-with-big-ears-cartoon-character_1308-133236.jpg' },
-        { animal: 'Goat', image: 'https://upload.wikimedia.org/wikipedia/commons/b/b2/Hausziege_04.jpg' },
+        { animal: 'நாய்', image: 'https://img.freepik.com/free-photo/isolated-happy-smiling-dog-white-background-portrait-4_1562-693.jpg' },
+        { animal: 'பூனை', image: 'https://images.pexels.com/photos/2071882/pexels-photo-2071882.jpeg?cs=srgb&dl=pexels-wojciech-kumpicki-2071882.jpg&fm=jpg' },
+        { animal: 'எலி', image: 'https://img.freepik.com/free-vector/cute-little-mouse-with-big-ears-cartoon-character_1308-133236.jpg' },
+        { animal: 'ஆடு', image: 'https://upload.wikimedia.org/wikipedia/commons/b/b2/Hausziege_04.jpg' },
         // Add more images and animals as needed
     ];
 
